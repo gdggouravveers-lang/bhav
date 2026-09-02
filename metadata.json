@@ -1,0 +1,6 @@
+{
+  "name": "मध्य प्रदेश मंडी भाव - MP Mandi Bhav",
+  "description": "मध्य प्रदेश की प्रमुख कृषि उपज मंडियों के दैनिक न्यूनतम, अधिकतम और मॉडल भाव, फसल तुलना, भाव इतिहास और आवक की सटीक जानकारी।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
